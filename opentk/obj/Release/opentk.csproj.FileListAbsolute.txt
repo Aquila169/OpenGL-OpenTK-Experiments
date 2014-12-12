@@ -1,0 +1,8 @@
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\fragment.glsl
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\vertex.glsl
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\opentk.exe
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\opentk.pdb
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\OpenTK.dll
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Release\OpenTK.xml
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\obj\Release\opentk.exe
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\obj\Release\opentk.pdb
