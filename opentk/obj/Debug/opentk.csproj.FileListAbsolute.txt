@@ -1,0 +1,7 @@
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Debug\opentk.exe
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Debug\opentk.pdb
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\obj\Debug\opentk.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\obj\Debug\opentk.exe
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\obj\Debug\opentk.pdb
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Debug\OpenTK.dll
+C:\Users\Casper\Documents\Visual Studio 2013\Projects\test\opentk\opentk\bin\Debug\OpenTK.xml
